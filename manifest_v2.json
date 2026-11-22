@@ -3,7 +3,7 @@
     "id": "com.SoDictionary.German.solan",
     "restype": "quick_app",
     "name": "So词典-德汉词典",
-    "description": "此处为\"德语\"词典，你可搜索\"So词典\"来查看其他  英汉/日汉/古汉语/俄汉  等版本~\n\n支持德语翻译的离线词典，包含了高考和常见词汇！\n--1.支持德语&汉语互译；\n-- 2.涵盖高考词汇+部分常见词汇；\n-- 3.支持快速搜索&全部搜索&模糊搜索&精确搜索；\n-- 4.支持在手机和手表端收藏和查看词汇；\n-- 5.支持在手机和手表端查看词汇统计数据；\n-- 6.手机端支持播放词汇朗读发音[需要手机系统带有相关原生组件]",
+    "description": "此处为\"德语\"词典，你可搜索\"So词典\"来查看其他  英汉/日汉/古汉语/俄汉  等版本~\n\n支持德语翻译的离线词典，包含了高考和常见词汇！\n--1.支持德语&汉语互译；\n-- 2.涵盖高考词汇+部分常见词汇；\n-- 3.支持快速搜索&全部搜索&模糊搜索&精确搜索；\n-- 4.支持在手机和手表端收藏和查看词汇；\n-- 5.支持在手机和手表端查看词汇统计数据；\n-- 6.手机端支持播放词汇朗读发音[需要手机系统带有相关原生组件]\n-- 7.词典新增支持查询词汇变体及其变形；",
     "preview": [
       "media/Frame 1.png",
       "media/212-514.png",
@@ -32,84 +32,180 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.5.4",
-      "file_name": "downloads/So词典-德汉.rpk",
-      "versionCode": 9
+      "version": "1.5.9",
+      "file_name": "downloads/SoDictionary-German-1.5.9.rpk",
+      "versionCode": 14,
+      "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "1.增加词汇变体及变形查询功能；\n2.更换新的数据存储接口，提升稳定性能；\n3.添加统计查看次数功能，新版本默认关闭（可减少设备异常重启概率）；\n4.大幅优化收藏列表&排行列表性能，提升加载时间；\n5.修复部分词典存在的部分词汇错误释义的问题；\n6.进一步减少异常重启黑屏等问题出现概率。"
+        }
+      ]
     },
     "xmrw5xring": {
-      "version": "1.5.4",
-      "file_name": "downloads/So词典-德汉.rpk",
-      "versionCode": 9
+      "version": "1.5.9",
+      "file_name": "downloads/SoDictionary-German-1.5.9.rpk",
+      "versionCode": 14,
+      "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "1.增加词汇变体及变形查询功能；\n2.更换新的数据存储接口，提升稳定性能；\n3.添加统计查看次数功能，新版本默认关闭（可减少设备异常重启概率）；\n4.大幅优化收藏列表&排行列表性能，提升加载时间；\n5.修复部分词典存在的部分词汇错误释义的问题；\n6.进一步减少异常重启黑屏等问题出现概率。"
+        }
+      ]
     },
     "xmrw6": {
-      "version": "1.5.4",
-      "file_name": "downloads/So词典-德汉.rpk",
-      "versionCode": 9
+      "version": "1.5.9",
+      "file_name": "downloads/SoDictionary-German-1.5.9.rpk",
+      "versionCode": 14,
+      "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "1.增加词汇变体及变形查询功能；\n2.更换新的数据存储接口，提升稳定性能；\n3.添加统计查看次数功能，新版本默认关闭（可减少设备异常重启概率）；\n4.大幅优化收藏列表&排行列表性能，提升加载时间；\n5.修复部分词典存在的部分词汇错误释义的问题；\n6.进一步减少异常重启黑屏等问题出现概率。"
+        }
+      ]
     },
     "xmb10": {
-      "version": "1.5.4",
-      "file_name": "downloads/So词典-德汉.rpk",
-      "versionCode": 9
+      "version": "1.5.9",
+      "file_name": "downloads/SoDictionary-German-1.5.9.rpk",
+      "versionCode": 14,
+      "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "1.增加词汇变体及变形查询功能；\n2.更换新的数据存储接口，提升稳定性能；\n3.添加统计查看次数功能，新版本默认关闭（可减少设备异常重启概率）；\n4.大幅优化收藏列表&排行列表性能，提升加载时间；\n5.修复部分词典存在的部分词汇错误释义的问题；\n6.进一步减少异常重启黑屏等问题出现概率。"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "1.5.4",
-      "file_name": "downloads/So词典-德汉.rpk",
-      "versionCode": 9
+      "version": "1.5.9",
+      "file_name": "downloads/SoDictionary-German-1.5.9.rpk",
+      "versionCode": 14,
+      "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "1.增加词汇变体及变形查询功能；\n2.更换新的数据存储接口，提升稳定性能；\n3.添加统计查看次数功能，新版本默认关闭（可减少设备异常重启概率）；\n4.大幅优化收藏列表&排行列表性能，提升加载时间；\n5.修复部分词典存在的部分词汇错误释义的问题；\n6.进一步减少异常重启黑屏等问题出现概率。"
+        }
+      ]
     },
     "xmb10p": {
-      "version": "1.5.4",
-      "file_name": "downloads/So词典-德汉.rpk",
-      "versionCode": 9
+      "version": "1.5.9",
+      "file_name": "downloads/SoDictionary-German-1.5.9.rpk",
+      "versionCode": 14,
+      "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "1.增加词汇变体及变形查询功能；\n2.更换新的数据存储接口，提升稳定性能；\n3.添加统计查看次数功能，新版本默认关闭（可减少设备异常重启概率）；\n4.大幅优化收藏列表&排行列表性能，提升加载时间；\n5.修复部分词典存在的部分词汇错误释义的问题；\n6.进一步减少异常重启黑屏等问题出现概率。"
+        }
+      ]
     },
     "xmb11": {
-      "version": "1.5.4",
-      "file_name": "downloads/So词典-德汉.rpk",
-      "versionCode": 9
+      "version": "1.5.9",
+      "file_name": "downloads/SoDictionary-German-1.5.9.rpk",
+      "versionCode": 14,
+      "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "1.增加词汇变体及变形查询功能；\n2.更换新的数据存储接口，提升稳定性能；\n3.添加统计查看次数功能，新版本默认关闭（可减少设备异常重启概率）；\n4.大幅优化收藏列表&排行列表性能，提升加载时间；\n5.修复部分词典存在的部分词汇错误释义的问题；\n6.进一步减少异常重启黑屏等问题出现概率。"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "1.5.4",
-      "file_name": "downloads/So词典-德汉.rpk",
-      "versionCode": 9
+      "version": "1.5.9",
+      "file_name": "downloads/SoDictionary-German-1.5.9.rpk",
+      "versionCode": 14,
+      "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "1.增加词汇变体及变形查询功能；\n2.更换新的数据存储接口，提升稳定性能；\n3.添加统计查看次数功能，新版本默认关闭（可减少设备异常重启概率）；\n4.大幅优化收藏列表&排行列表性能，提升加载时间；\n5.修复部分词典存在的部分词汇错误释义的问题；\n6.进一步减少异常重启黑屏等问题出现概率。"
+        }
+      ]
     },
     "xmb9": {
-      "version": "1.5.4",
-      "file_name": "downloads/So词典-德汉.rpk",
-      "versionCode": 9
+      "version": "1.5.9",
+      "file_name": "downloads/SoDictionary-German-1.5.9.rpk",
+      "versionCode": 14,
+      "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "1.增加词汇变体及变形查询功能；\n2.更换新的数据存储接口，提升稳定性能；\n3.添加统计查看次数功能，新版本默认关闭（可减少设备异常重启概率）；\n4.大幅优化收藏列表&排行列表性能，提升加载时间；\n5.修复部分词典存在的部分词汇错误释义的问题；\n6.进一步减少异常重启黑屏等问题出现概率。"
+        }
+      ]
     },
     "xmb9p": {
-      "version": "1.5.4",
-      "file_name": "downloads/So词典-德汉.rpk",
-      "versionCode": 9
+      "version": "1.5.9",
+      "file_name": "downloads/SoDictionary-German-1.5.9.rpk",
+      "versionCode": 14,
+      "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "1.增加词汇变体及变形查询功能；\n2.更换新的数据存储接口，提升稳定性能；\n3.添加统计查看次数功能，新版本默认关闭（可减少设备异常重启概率）；\n4.大幅优化收藏列表&排行列表性能，提升加载时间；\n5.修复部分词典存在的部分词汇错误释义的问题；\n6.进一步减少异常重启黑屏等问题出现概率。"
+        }
+      ]
     },
     "xmws3": {
-      "version": "1.5.4",
-      "file_name": "downloads/So词典-德汉.rpk",
-      "versionCode": 9
+      "version": "1.5.9",
+      "file_name": "downloads/SoDictionary-German-1.5.9.rpk",
+      "versionCode": 14,
+      "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "1.增加词汇变体及变形查询功能；\n2.更换新的数据存储接口，提升稳定性能；\n3.添加统计查看次数功能，新版本默认关闭（可减少设备异常重启概率）；\n4.大幅优化收藏列表&排行列表性能，提升加载时间；\n5.修复部分词典存在的部分词汇错误释义的问题；\n6.进一步减少异常重启黑屏等问题出现概率。"
+        }
+      ]
     },
     "xmws4xring": {
-      "version": "1.5.4",
-      "file_name": "downloads/So词典-德汉.rpk",
-      "versionCode": 9
+      "version": "1.5.9",
+      "file_name": "downloads/SoDictionary-German-1.5.9.rpk",
+      "versionCode": 14,
+      "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "1.增加词汇变体及变形查询功能；\n2.更换新的数据存储接口，提升稳定性能；\n3.添加统计查看次数功能，新版本默认关闭（可减少设备异常重启概率）；\n4.大幅优化收藏列表&排行列表性能，提升加载时间；\n5.修复部分词典存在的部分词汇错误释义的问题；\n6.进一步减少异常重启黑屏等问题出现概率。"
+        }
+      ]
     },
     "xmws441": {
-      "version": "1.5.4",
-      "file_name": "downloads/So词典-德汉.rpk",
-      "versionCode": 9
+      "version": "1.5.9",
+      "file_name": "downloads/SoDictionary-German-1.5.9.rpk",
+      "versionCode": 14,
+      "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "1.增加词汇变体及变形查询功能；\n2.更换新的数据存储接口，提升稳定性能；\n3.添加统计查看次数功能，新版本默认关闭（可减少设备异常重启概率）；\n4.大幅优化收藏列表&排行列表性能，提升加载时间；\n5.修复部分词典存在的部分词汇错误释义的问题；\n6.进一步减少异常重启黑屏等问题出现概率。"
+        }
+      ]
     },
     "xmws4": {
-      "version": "1.5.4",
-      "file_name": "downloads/So词典-德汉.rpk",
-      "versionCode": 9
+      "version": "1.5.9",
+      "file_name": "downloads/SoDictionary-German-1.5.9.rpk",
+      "versionCode": 14,
+      "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "1.增加词汇变体及变形查询功能；\n2.更换新的数据存储接口，提升稳定性能；\n3.添加统计查看次数功能，新版本默认关闭（可减少设备异常重启概率）；\n4.大幅优化收藏列表&排行列表性能，提升加载时间；\n5.修复部分词典存在的部分词汇错误释义的问题；\n6.进一步减少异常重启黑屏等问题出现概率。"
+        }
+      ]
     },
     "xmws541": {
-      "version": "1.5.4",
-      "file_name": "downloads/So词典-德汉.rpk",
-      "versionCode": 9
+      "version": "1.5.9",
+      "file_name": "downloads/SoDictionary-German-1.5.9.rpk",
+      "versionCode": 14,
+      "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "1.增加词汇变体及变形查询功能；\n2.更换新的数据存储接口，提升稳定性能；\n3.添加统计查看次数功能，新版本默认关闭（可减少设备异常重启概率）；\n4.大幅优化收藏列表&排行列表性能，提升加载时间；\n5.修复部分词典存在的部分词汇错误释义的问题；\n6.进一步减少异常重启黑屏等问题出现概率。"
+        }
+      ]
     },
     "xmws5": {
-      "version": "1.5.4",
-      "file_name": "downloads/So词典-德汉.rpk",
-      "versionCode": 9
+      "version": "1.5.9",
+      "file_name": "downloads/SoDictionary-German-1.5.9.rpk",
+      "versionCode": 14,
+      "updatelogs": [
+        {
+          "version": "1.5.9",
+          "content": "1.增加词汇变体及变形查询功能；\n2.更换新的数据存储接口，提升稳定性能；\n3.添加统计查看次数功能，新版本默认关闭（可减少设备异常重启概率）；\n4.大幅优化收藏列表&排行列表性能，提升加载时间；\n5.修复部分词典存在的部分词汇错误释义的问题；\n6.进一步减少异常重启黑屏等问题出现概率。"
+        }
+      ]
     }
   },
   "ext": {}
